@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maloxku
+- 👀 I've no f*cking clue of how this works. But one day...
+- 🌱 I’m currently learning to write useful information in the readme file
